@@ -1,0 +1,23 @@
+{/* // <div className="child" id="child1">1</div>
+          // <div className="child" id="child2">2</div>
+          // <div className="child" id="child3">3</div>
+          // <div className="child" id="child4">4</div>
+          // <div className="child" id="child5">5</div>
+          // <div className="child" id="child6">6</div>
+          // <div className="child" id="child7">7</div>
+          // <div className="child" id="child8">8</div>
+          // <div className="child" id="child9">9</div>
+          // <div className="child" id="child10">10</div>
+          // <div className="child" id="child11">11</div>
+          // <div className="child" id="child12">12</div>
+          // <div className="child" id="child13">13</div>
+          // <div className="child" id="child14">14</div>
+          // <div className="child" id="child15">15</div>
+          // <div className="child" id="child16">16</div>
+          // <div className="child" id="child17">17</div>
+          // <div className="child" id="child18">18</div>
+          // <div className="child" id="child19">19</div>
+          // <div className="child" id="child20">20</div> */}
+
+
+                    /* .map((_,i)=> {return (<div className="child" id={`child${i+1}`} id={`child${i+1}`}>{i+1}</div>)})}  */
